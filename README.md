@@ -27,6 +27,8 @@ export AWS_SECRET=<your IAM secret here>
 Once that is done, you can install all dependencies by typing:
 
 ```
+This ONLY wokrs in Ubuntu.
+--------------------------
 sudo apt install ruby-bundler
 sudo gem install bundler
 bundle install
