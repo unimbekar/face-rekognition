@@ -1,4 +1,4 @@
-# FaceRekognition-Demo
+# face-rekognition
 
 This is a tiny demo application which demonstrates the Amazon AWS 'Rekognition' face and image recognition API, as well as the 'Polly' speech synthesis API.
 
@@ -27,6 +27,8 @@ export AWS_SECRET=<your IAM secret here>
 Once that is done, you can install all dependencies by typing:
 
 ```
+sudo apt install ruby-bundler
+sudo gem install bundler
 bundle install
 ```
 
@@ -41,6 +43,3 @@ This will start a local web server, listening on port 4567.  Then it is a matter
 ```
 http://localhost:4567
 ```
-
-Feel free to fork and improve this simple demo.  Any issues, contact me via Twitter @dsabar
-
