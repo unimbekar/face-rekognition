@@ -4,7 +4,6 @@ This is a tiny demo application which demonstrates the Amazon AWS 'Rekognition' 
 
 It uses the JPEG Camera library to take a photo from your PC/device onboard camera and send the facial data to Amazon for comparison and identification.
 
-Full blog post about this project is here: http://devan.blaze.com.au/blog/2017/3/13/building-a-face-recognition-app-in-less-than-an-hour
 
 ## Prerequisites
 
